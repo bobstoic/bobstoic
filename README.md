@@ -1,7 +1,8 @@
-### Hi there 👋
+#### Hi there 👋
 #### 🌱 I’m currently learning.
 #### 📫 How to reach me: bobsvalen@gmail.com
-
+#### ⚡ Fun fact: 
+#### 🔭 I’m currently working on pushing myself to limit
 <!--
 **bobstoic/bobstoic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
