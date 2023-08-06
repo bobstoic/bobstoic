@@ -46,6 +46,8 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
+---
+
 ### :man_technologist: about me:
 
     - 🌱 I’m currently learning Elixir and Phoenix/LiveView.
@@ -53,8 +55,8 @@ Here are some ideas to get you started:
     
 ---
 
+### :hammer_and_wrench: Languages and Tools :
 <div id="subheader" align="center">
-:hammer_and_wrench: Languages and Tools :
   <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg" title="Elixir" alt="Elixir" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/phoenix/phoenix-original.svg" title="Phoenix" alt="Phoenix" width="40" height="40"/>&nbsp;
@@ -63,3 +65,10 @@ Here are some ideas to get you started:
    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
   </div>
 </div>
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bobstoic)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bobstoic&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
