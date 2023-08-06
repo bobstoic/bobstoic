@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 ---
 
 <div id="subheader" align="center">
-### :hammer_and_wrench: Languages and Tools :
+:hammer_and_wrench: Languages and Tools :
  <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg" title="Elixir" alt="Elixir" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/phoenix/phoenix-original.svg" title="Phoenix" alt="Phoenix" width="40" height="40"/>&nbsp;
