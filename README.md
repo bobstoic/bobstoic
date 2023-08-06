@@ -51,6 +51,9 @@ Here are some ideas to get you started:
     - 🌱 I’m currently learning Elixir and Phoenix/LiveView.
     - - ⚡ Fun fact: Few people know that I'm studying Elixir.
     
+---
+
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg" title="Elixir" alt="Elixir" width="40" height="40"/>&nbsp;
