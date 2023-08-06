@@ -70,6 +70,7 @@ Here are some ideas to get you started:
 
 ### :fire: My Stats :
 <div id="subheader" align="center">
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bobstoic)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bobstoic&layout=compact&theme=vision-friendly-dark)
